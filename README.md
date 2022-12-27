@@ -15,3 +15,4 @@ Bot Komutları
 !oto-sat |-| !oto-gönder |-| !komut-ayarla|-| !kanal-ayarla |-| !kod-doğrula
 
 !çek |-| !kutu |-| !cash |-| !sellall |-| !use |-|!inv |-| !zoo |-| !w
+.
