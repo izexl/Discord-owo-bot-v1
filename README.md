@@ -6,7 +6,7 @@ Wındows 8 / 10 / 11 Tam Olarak Uyumludur. Wındows 7 istisna durumlar içermekt
 
 Bilgisayarı yormaz, FPS kaybı ve diğer problemler yaşanmamaktadır. Arkaplanınızda ve VDS(Sanal Sunucu) üzerinde çalıştırılabilir.
 
-Bot Komutları
+Bot Komutları.
 
 !yardım |-| !ayarlar |-| !istatistik |-| !captcha-koruma-bilgi
 
